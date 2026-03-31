@@ -1,4 +1,4 @@
-# 理芽、Guiano – 言っちゃいけないことばっか浮かぶよな
+# Guiano & RIM – 言っちゃいけないことばっか浮かぶよな - Only the Unspoken Comes to Mind
 
 > **歌詞登録ステータス：同期歌詞あり**
 
