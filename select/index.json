@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "言っちゃいけないことばっか浮かぶよな - Only the Unspoken Comes to Mind",
+  "base_artist": "Guiano & RIM",
+  "createdAt": "2026-03-31T09:19:26.995916Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "言っちゃいけないことばっか浮かぶよな",
+      "artist": "Guiano x 理芽",
+      "has_synced": true,
+      "path": "select/01_言っちゃいけないことばっか浮かぶよな_Guiano_x_理芽.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "言っちゃいけないことばっか浮かぶよな",
+      "artist": "Guiano",
+      "has_synced": true,
+      "path": "select/02_言っちゃいけないことばっか浮かぶよな_Guiano.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "言っちゃいけないことばっか浮かぶよな",
+      "artist": "Guiano & 理芽",
+      "has_synced": true,
+      "path": "select/03_言っちゃいけないことばっか浮かぶよな_Guiano_&_理芽.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "言っちゃいけないことばっか浮かぶよな / Guiano x 理芽",
+      "artist": "RIM",
+      "has_synced": false,
+      "path": "select/04_言っちゃいけないことばっか浮かぶよな___Guiano_x_理芽_RIM.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "言っちゃいけないことばっか浮かぶよな",
+      "artist": "Guiano × 理芽",
+      "has_synced": true,
+      "path": "select/05_言っちゃいけないことばっか浮かぶよな_Guiano_×_理芽.lrc"
+    }
+  ]
+}
